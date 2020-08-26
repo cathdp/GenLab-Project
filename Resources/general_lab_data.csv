@@ -1,0 +1,705 @@
+location,type of test,January,February,March,April,Total
+Aventura,Automated cell count,0,0,1,0,1
+Aventura,Basic metabolic profile,0,0,1,0,1
+Aventura,Complete blood count cbc,0,4,276,140,420
+Aventura,Comprehensive metabolic panel,0,2,261,136,399
+Aventura,Direct bilirubin,0,0,1,2,3
+Aventura,Ldh,0,0,56,29,85
+Aventura,Magnesium level,0,0,20,13,33
+Aventura,Phosphorous,0,0,6,6,12
+Aventura,Urinalysis with reflex to urine culture,0,0,1,0,1
+Aventura,Urine macroscopic,0,0,15,8,23
+Aventura,Urine microscopic,0,0,6,6,12
+Bascom Palmer,Albumin level,1,0,0,0,1
+Bascom Palmer,Aptt,4,9,2,1,16
+Bascom Palmer,Automated cell count,4,3,0,0,7
+Bascom Palmer,Basic metabolic profile,15,15,13,0,43
+Bascom Palmer,Blood urea nitrogen,2,0,0,0,2
+Bascom Palmer,Complete blood count cbc,51,40,34,8,133
+Bascom Palmer,Complete urinalysis w microscopy,5,4,4,0,13
+Bascom Palmer,Comprehensive metabolic panel,20,19,17,1,57
+Bascom Palmer,C reactive protein,23,23,15,4,65
+Bascom Palmer,Creatinine blood,2,0,0,0,2
+Bascom Palmer,Direct bilirubin,6,4,10,0,20
+Bascom Palmer,Esr,26,30,15,2,73
+Bascom Palmer,Ggtp,5,4,9,0,18
+Bascom Palmer,Glucose level,0,0,1,0,1
+Bascom Palmer,Magnesium level,0,0,5,0,5
+Bascom Palmer,Phosphorous,4,4,5,0,13
+Bascom Palmer,Pt inr,13,17,9,1,40
+Bascom Palmer,Serum pregnancy qual,2,1,5,0,8
+Bascom Palmer,Uric acid,0,1,5,0,6
+Bascom Palmer,Urine hcg  qualitative,14,18,10,1,43
+Bascom Palmer,Urine macroscopic,1,0,2,0,3
+Bascom Palmer,Urine microscopic,4,5,5,0,14
+Coral Springs,Aptt,7,7,4,2,20
+Coral Springs,Automated cell count,0,1,1,0,2
+Coral Springs,Basic metabolic profile,1,0,2,3,6
+Coral Springs,Complete blood count cbc,366,350,346,189,1251
+Coral Springs,Complete urinalysis w microscopy,3,2,5,2,12
+Coral Springs,Comprehensive metabolic panel,297,287,301,165,1050
+Coral Springs,Direct bilirubin,4,9,7,7,27
+Coral Springs,Glucose fasting,0,1,0,0,1
+Coral Springs,Hepatic function panel,1,0,0,1,2
+Coral Springs,Magnesium level,22,27,32,22,103
+Coral Springs,Occult blood fecal,12,12,6,0,30
+Coral Springs,Peripheral smear scan,0,1,2,0,3
+Coral Springs,Phosphorous,14,10,17,12,53
+Coral Springs,Platelet aggregation,0,2,0,0,2
+Coral Springs,Pt inr,14,17,16,8,55
+Coral Springs,Urinalysis with reflex to urine culture,0,0,1,0,1
+Coral Springs,Urine chloride  24hr,1,0,0,0,1
+Coral Springs,Urine creatinine  24hr,2,0,0,0,2
+Coral Springs,Urine hcg  qualitative,0,2,1,2,5
+Coral Springs,Urine macroscopic,20,24,21,9,74
+Coral Springs,Urine microscopic,13,14,16,10,53
+Coral Springs,Urine potassium  24hr,1,0,0,0,1
+Coral Springs,Urine sodium  24hr,1,0,0,0,1
+Coral Springs,Urine total protein  24hr,1,0,0,0,1
+Coral Springs,Urine urea nitrogen  24hr,1,0,0,0,1
+Coral Springs,Urine uric acid  24hr,1,0,0,0,1
+Deerfield,Albumin level,1,0,0,0,1
+Deerfield,Aptt,30,29,35,6,100
+Deerfield,Automated cell count,13,17,15,6,51
+Deerfield,Basic metabolic profile,70,42,51,11,174
+Deerfield,Bilirubin  fractionated,1,0,0,0,1
+Deerfield,Blood urea nitrogen,9,13,6,2,30
+Deerfield,Buncreatinine ratio with egfr,3,0,0,0,3
+Deerfield,Calcium level,15,8,7,3,33
+Deerfield,Complete blood count cbc,1127,1010,1107,619,3863
+Deerfield,Complete urinalysis w microscopy,3,0,3,1,7
+Deerfield,Comprehensive metabolic panel,1067,960,1052,591,3670
+Deerfield,Creatinine blood,24,24,17,7,72
+Deerfield,Direct bilirubin,21,25,23,25,94
+Deerfield,Glucose fasting,1,1,2,1,5
+Deerfield,Glucose level,3,1,0,0,4
+Deerfield,Hemoglobin,0,0,1,0,1
+Deerfield,Hepatic function panel,17,17,6,4,44
+Deerfield,Ldh,0,0,16,0,16
+Deerfield,Magnesium level,264,238,297,172,971
+Deerfield,Occult blood fecal,4,1,0,0,5
+Deerfield,Phosphorous,66,81,108,65,320
+Deerfield,Platelet,1,4,0,0,5
+Deerfield,Platelet  citrated blood,0,0,2,0,2
+Deerfield,Potassium,3,1,3,6,13
+Deerfield,Pt inr,46,52,48,13,159
+Deerfield,Renal function panel,0,1,1,1,3
+Deerfield,Total bilirubin,1,1,2,0,4
+Deerfield,Urinalysis with reflex to urine culture,4,2,2,2,10
+Deerfield,Urine creatinine  24hr,1,0,0,0,1
+Deerfield,Urine hcg  qualitative,7,5,6,7,25
+Deerfield,Urine macroscopic,198,185,149,67,599
+Deerfield,Urine microscopic,123,119,89,43,374
+Deerfield,Urine total protein  24hr,1,0,1,1,3
+Deerfield,Wbc count,0,1,0,0,1
+Deerfield,Wbc differential,0,0,0,1,1
+Hepatology,Acute hepatitis panel,0,0,1,0,1
+Hepatology,Hbv dna quant real time pcr,0,0,0,8,8
+Hepatology,Hcv genotyping pcrlipa,4,0,0,0,4
+Hepatology,Hcv rna quant real time pcr,6,1,5,2,14
+Hepatology,Hcv rna  qn pcr wrefl to genotype  lipar,1,2,1,0,4
+Hepatology,Hep b core antibody total  with rflx to igm,1,0,0,1,2
+Hepatology,Hepatitis a ab total,0,0,68,0,68
+Hepatology,Hepatitis b surface ag,1,5,6,1,13
+Hollywood,Aptt,9,14,6,5,34
+Hollywood,Automated cell count,2,0,0,1,3
+Hollywood,Basic metabolic profile,3,1,0,5,9
+Hollywood,Bilirubin  fractionated,4,3,3,1,11
+Hollywood,Complete blood count cbc,707,660,418,173,1958
+Hollywood,Complete urinalysis w microscopy,0,0,1,0,1
+Hollywood,Comprehensive metabolic panel,565,515,326,150,1556
+Hollywood,Direct bilirubin,5,2,5,0,12
+Hollywood,Hepatic function panel,1,0,0,0,1
+Hollywood,Magnesium level,42,38,39,29,148
+Hollywood,Phosphorous,19,18,15,10,62
+Hollywood,Potassium,0,0,1,1,2
+Hollywood,Pt inr,18,22,17,9,66
+Hollywood,Renal function panel,0,1,0,0,1
+Hollywood,Urinalysis with reflex to urine culture,2,1,0,1,4
+Hollywood,Urine creatinine  24hr,1,0,0,0,1
+Hollywood,Urine macroscopic,8,7,12,3,30
+Hollywood,Urine microscopic,7,5,6,3,21
+Hollywood,Urine total protein  24hr,1,0,0,0,1
+Hollywood,Urine urea nitrogen  24hr,1,0,0,0,1
+Kendall,Alt sgpt,0,0,0,1,1
+Kendall,Aptt,7,12,10,5,34
+Kendall,Automated cell count,5,6,6,8,25
+Kendall,Basic metabolic profile,9,11,10,4,34
+Kendall,Bilirubin  fractionated,1,0,0,0,1
+Kendall,Blood urea nitrogen,1,1,1,0,3
+Kendall,Calcium level,0,0,0,1,1
+Kendall,Calcium  24 hour urine w creatinine,0,1,0,0,1
+Kendall,Complete blood count cbc,708,667,676,399,2450
+Kendall,Complete urinalysis w microscopy,3,4,1,0,8
+Kendall,Comprehensive metabolic panel,624,588,618,362,2192
+Kendall,Creatinine blood,1,1,1,0,3
+Kendall,Direct bilirubin,15,14,32,14,75
+Kendall,Glucose fasting,1,1,0,0,2
+Kendall,Glucose level,1,0,0,0,1
+Kendall,Hepatic function panel,7,3,9,0,19
+Kendall,Ldh,70,50,65,42,227
+Kendall,Magnesium level,90,80,95,43,308
+Kendall,Occult blood fecal,0,3,0,0,3
+Kendall,Peripheral smear scan,0,1,0,0,1
+Kendall,Phosphorous,21,24,19,9,73
+Kendall,Platelet aggregation,1,2,0,0,3
+Kendall,Platelet  citrated blood,0,1,2,0,3
+Kendall,Potassium,1,1,3,1,6
+Kendall,Pt inr,18,21,17,8,64
+Kendall,Renal function panel,3,1,0,0,4
+Kendall,Serum pregnancy qual,17,18,21,11,67
+Kendall,Total bilirubin,0,1,0,0,1
+Kendall,Urinalysis with reflex to urine culture,0,0,1,0,1
+Kendall,Urine hcg  qualitative,0,5,0,1,6
+Kendall,Urine macroscopic,51,57,53,26,187
+Kendall,Urine microscopic,32,46,41,19,138
+Kendall,Urine total protein  24hr,0,0,1,0,1
+Lennar,Albumin level,1,1,0,0,2
+Lennar,Alkaline phosphatase,2,0,0,0,2
+Lennar,Alt sgpt,24,1,3,1,29
+Lennar,Ammonia,2,0,0,0,2
+Lennar,Amylase,24,22,18,17,81
+Lennar,Aptt,45,39,23,4,111
+Lennar,Ast sgot,19,1,0,0,20
+Lennar,Automated cell count,51,37,37,3,128
+Lennar,Basic metabolic profile,105,66,36,9,216
+Lennar,Beta hcg  blood,8,16,11,8,43
+Lennar,Bilirubin  fractionated,0,0,2,0,2
+Lennar,Blood gas analysis,5,8,4,1,18
+Lennar,Blood urea nitrogen,10,5,2,0,17
+Lennar,Body fluid analysis,17,13,19,3,52
+Lennar,Calcium level,18,19,6,0,43
+Lennar,Calcium  24 hour urine w creatinine,4,1,1,1,7
+Lennar,Complete blood count cbc,1539,1516,1177,553,4785
+Lennar,Complete urinalysis w microscopy,13,9,8,0,30
+Lennar,Comprehensive metabolic panel,1432,1376,1115,529,4452
+Lennar,Covid 19 rt pcr umh,0,0,0,1,1
+Lennar,Cpk,12,16,8,4,40
+Lennar,Cpk mb isoenzyme,1,1,0,0,2
+Lennar,Creatinine blood,26,13,7,0,46
+Lennar,Crystals  synovial fluid,0,1,0,0,1
+Lennar,Csf glucose,1,1,0,0,2
+Lennar,Csf total protein,1,1,0,0,2
+Lennar,D dimer,4,9,2,1,16
+Lennar,Direct bilirubin,25,25,27,17,94
+Lennar,Electrolytes  blood,4,4,1,0,9
+Lennar,Esr,56,41,33,7,137
+Lennar,Ferritin,70,55,26,5,156
+Lennar,Fibrinogen,2,0,0,0,2
+Lennar,Ggtp,5,5,6,5,21
+Lennar,Glucose fasting,3,3,0,1,7
+Lennar,Glucose level,0,2,2,1,5
+Lennar,Helicobacter pylori antigen  stool,4,7,3,0,14
+Lennar,Hematocrit,1,1,0,0,2
+Lennar,Hemoglobin and hematocrit,1,0,3,0,4
+Lennar,Hepatic function panel,22,22,15,0,59
+Lennar,Infectious mononucleosis,11,20,9,0,40
+Lennar,Intraoperative pth,20,4,0,0,24
+Lennar,Ionized calcium,11,14,1,0,26
+Lennar,Iron,1,2,5,0,8
+Lennar,Iron and total iron binding capacity,49,47,21,4,121
+Lennar,Iron profile,142,124,70,28,364
+Lennar,Ldh,137,122,89,71,419
+Lennar,Lipase,25,22,20,17,84
+Lennar,Lipid profile,209,216,95,16,536
+Lennar,Magnesium level,116,124,123,71,434
+Lennar,Occult blood fecal,3,1,7,0,11
+Lennar,Phosphorous,51,54,56,32,193
+Lennar,Platelet,0,1,0,0,1
+Lennar,Platelet  citrated blood,0,0,1,0,1
+Lennar,Potassium,1,2,4,1,8
+Lennar,Pt inr,100,106,107,48,361
+Lennar,Rapid hiv,2,1,0,0,3
+Lennar,Renal function panel,13,11,11,1,36
+Lennar,Reticulocyte count,0,2,2,0,4
+Lennar,Reticulocyte panel,19,21,6,5,51
+Lennar,Serum pregnancy qual,4,4,2,3,13
+Lennar,Total bilirubin,2,1,0,0,3
+Lennar,Total protein,2,0,0,0,2
+Lennar,Troponin t,1,1,0,0,2
+Lennar,Uric acid,55,44,29,19,147
+Lennar,Urinalysis with reflex to urine culture,502,542,332,28,1404
+Lennar,Urine calcium  24hr,1,0,0,0,1
+Lennar,Urine creatinine  24hr,2,0,0,1,3
+Lennar,Urine glucose  24hr,1,0,0,0,1
+Lennar,Urine hcg  qualitative,12,10,7,5,34
+Lennar,Urine macroscopic,164,146,110,60,480
+Lennar,Urine microscopic,349,322,221,63,955
+Lennar,Urine phosphorus  24hr,1,0,0,0,1
+Lennar,Urine total protein  24hr,5,2,2,1,10
+Lennar,Urine uric acid  24hr,1,0,0,0,1
+Lennar,Vaginal wet mount,101,117,57,0,275
+Lennar,Wbc differential,2,2,0,0,4
+Microbiology Lab,Acid fast bacilli blood culture,6,5,0,0,11
+Microbiology Lab,Aerana tissue cult with gs,153,104,74,13,344
+Microbiology Lab,Afb culture & smear,183,0,0,0,183
+Microbiology Lab,Afb smear only,0,2,0,0,2
+Microbiology Lab,Bld cult gram neg panel  nuc acid probe,35,34,37,13,119
+Microbiology Lab,Bld cult gram pos panel  nuc acid probe,43,46,65,21,175
+Microbiology Lab,Blood culture,2369,2110,2243,810,7532
+Microbiology Lab,Blood parasites,3,0,3,0,6
+Microbiology Lab,Body fluid culture except blood or csf,155,121,110,51,437
+Microbiology Lab,Catheter and indwelling devices culture,9,21,28,10,68
+Microbiology Lab,Clostridium difficile eia wrflx to pcr,194,153,112,47,506
+Microbiology Lab,Cryptococcal antigen bloodcsf,25,19,18,8,70
+Microbiology Lab,Csf culture,61,51,38,9,159
+Microbiology Lab,Culture  anaerobic bacteria wgram stain,0,1,0,0,1
+Microbiology Lab,Cyclospora and isospora examination,3,1,1,1,6
+Microbiology Lab,Cystic fibrosis respiratory cult wgs,7,1,4,0,12
+Microbiology Lab,Deep wound culture with gs,193,183,131,23,530
+Microbiology Lab,Ear culture,11,15,5,0,31
+Microbiology Lab,Enteric panel stool by pcr,84,0,0,0,84
+Microbiology Lab,Eye culture,1,0,0,0,1
+Microbiology Lab,Fecal wbc,24,23,19,7,73
+Microbiology Lab,Genital culture with gs,1,1,1,2,5
+Microbiology Lab,Gonococcal culture,1,4,0,0,5
+Microbiology Lab,Gram stain only,1,7,1,3,12
+Microbiology Lab,Helicobacter pylori antigen  stool,6,8,5,2,21
+Microbiology Lab,Koh prep,0,1,0,1,2
+Microbiology Lab,Legionella antigen  urine,70,56,83,61,270
+Microbiology Lab,Mrsa screen,667,574,540,151,1932
+Microbiology Lab,Mycology blood culture,8,12,4,0,24
+Microbiology Lab,Mycology culture,247,0,0,0,247
+Microbiology Lab,Mycology culture skin  hair or nails,11,0,0,0,11
+Microbiology Lab,Ova and parasites,44,0,0,0,44
+Microbiology Lab,Respiratory culture with gs,237,196,176,66,675
+Microbiology Lab,Respiratory pathogen panel nuc acid probe,283,224,415,80,1002
+Microbiology Lab,Stem cell product culture,24,18,18,1,61
+Microbiology Lab,Stool culture,2,0,0,0,2
+Microbiology Lab,Strep pneumoniae antigen  urine,59,42,77,51,229
+Microbiology Lab,Surface wound culture with gs,81,99,59,12,251
+Microbiology Lab,Surgical swab culture with gs,32,14,12,2,60
+Microbiology Lab,Susceptibility,0,1,2,1,4
+Microbiology Lab,Transfusion reaction culture,0,2,0,0,2
+Microbiology Lab,Upper respiratory culture throat,38,78,54,8,178
+Microbiology Lab,Urine culture,1502,1357,1128,389,4376
+Microbiology Lab,Vaginal wet mount,1,2,0,0,3
+Microbiology Lab,Vre screen,37,44,41,19,141
+Microbiology Lab,Water culture,18,19,17,9,63
+Molecular Infectious Diseases,Chlamydianeisseria qual  dna pcr,493,512,226,13,1244
+Molecular Infectious Diseases,Cmv dna  quant rt pcr  plasma,518,441,382,155,1496
+Molecular Infectious Diseases,Hbv dna qnt  rt pcr wrflx drug resistance and pre,0,1,1,0,2
+Molecular Infectious Diseases,Hbv dna qnt  rt pcr wrflx genotype,2,0,1,0,3
+Molecular Infectious Diseases,Hbv dna quant real time pcr,24,27,23,5,79
+Molecular Infectious Diseases,Hbv drug resistance,0,1,0,0,1
+Molecular Infectious Diseases,Hbv genotype,1,0,1,1,3
+Molecular Infectious Diseases,Hcv genotyping pcrlipa,0,5,5,0,10
+Molecular Infectious Diseases,Hcv rna quant real time pcr,45,33,42,10,130
+Molecular Infectious Diseases,Hcv rna  qn pcr wrefl to genotype  lipar,0,2,1,0,3
+Molecular Infectious Diseases,Hep b core antibody total  with rflx to igm,14,17,10,7,48
+Molecular Infectious Diseases,Hiv 1 rna  quantitative rt pcr,89,89,49,15,242
+Molecular Infectious Diseases,Hpv high risk genotyping 1618 dna pcr,13,12,2,0,27
+Molecular Pathology,Cd3 stem cell product,7,6,5,0,18
+Molecular Pathology,Cd34,0,4,3,1,8
+Molecular Pathology,Cd34 stem cell product,39,30,31,5,105
+Molecular Pathology,Cd4 t helper cells,22,16,17,4,59
+Molecular Pathology,Lymphocyte subset analysis,59,60,49,17,185
+Molecular Pathology,Lymphocyte subset panel 2,13,6,2,5,26
+Molecular Pathology,Lymphocyte subset panel 4,12,6,6,1,25
+Molecular Pathology,T lymphocyte helpersuppressor,106,98,41,6,251
+Plantation,Aptt,22,15,26,8,71
+Plantation,Automated cell count,17,14,13,2,46
+Plantation,Basic metabolic profile,11,10,16,12,49
+Plantation,Bilirubin  fractionated,1,1,0,0,2
+Plantation,Blood urea nitrogen,1,0,1,1,3
+Plantation,Body fluid analysis,0,1,0,0,1
+Plantation,Calcium level,1,1,0,0,2
+Plantation,Calcium  24 hour urine w creatinine,1,0,1,0,2
+Plantation,Cd34,0,0,0,1,1
+Plantation,Complete blood count cbc,943,907,879,500,3229
+Plantation,Complete urinalysis w microscopy,11,8,2,1,22
+Plantation,Comprehensive metabolic panel,912,850,854,484,3100
+Plantation,Creatinine blood,2,0,1,1,4
+Plantation,Direct bilirubin,11,27,18,15,71
+Plantation,Glucose fasting,1,6,3,1,11
+Plantation,Hepatic function panel,4,4,3,3,14
+Plantation,Magnesium level,239,218,229,138,824
+Plantation,Occult blood fecal,1,0,0,0,1
+Plantation,Peripheral smear scan,0,0,2,0,2
+Plantation,Phosphorous,79,92,74,47,292
+Plantation,Platelet,4,2,2,0,8
+Plantation,Platelet aggregation,1,0,0,0,1
+Plantation,Potassium,9,13,6,4,32
+Plantation,Pt inr,69,64,62,11,206
+Plantation,Renal function panel,3,2,2,0,7
+Plantation,Sodium,1,0,0,0,1
+Plantation,Urinalysis with reflex to urine culture,15,9,10,1,35
+Plantation,Urine creatinine  24hr,0,0,1,0,1
+Plantation,Urine hcg  qualitative,1,5,6,1,13
+Plantation,Urine macroscopic,68,60,81,43,252
+Plantation,Urine microscopic,66,48,45,22,181
+Plantation,Urine total protein  24hr,1,0,1,0,2
+Plantation,Wbc differential,1,0,0,0,1
+Special Coagulation,Adamts 13 activity,2,3,1,0,6
+Special Coagulation,Anti b2 glycoprotein i,1,6,5,0,12
+Special Coagulation,Anti b2 gpi iga,2,4,1,0,7
+Special Coagulation,Anti b2 gpi igg,4,4,2,0,10
+Special Coagulation,Anti b2 gpi igm,3,4,2,0,9
+Special Coagulation,Anti cardiolipin ab igg igm,9,8,4,2,23
+Special Coagulation,Anti cardiolipin antibodies iga igg igm,10,7,8,1,26
+Special Coagulation,Anti cardiolipin g,1,0,0,0,1
+Special Coagulation,Anti cardiolipin m,1,0,0,0,1
+Special Coagulation,Anti platelet factor 4 igg,43,49,37,24,153
+Special Coagulation,Antithrombin activity,3,7,4,1,15
+Special Coagulation,Antithrombin antigen,0,1,1,0,2
+Special Coagulation,Antithrombin iii activity wrefl atag,1,1,1,0,3
+Special Coagulation,Antithrombin iii panel,0,2,0,0,2
+Special Coagulation,Anti xa low molec.weight heparin,1,2,1,0,4
+Special Coagulation,Anti xa standard heparin,0,0,1,0,1
+Special Coagulation,Aptt mixing study,21,21,10,4,56
+Special Coagulation,Chromogenic protein c,0,1,1,0,2
+Special Coagulation,Diluted russell viper venom,1,0,0,0,1
+Special Coagulation,Erythropoietin level,34,39,20,1,94
+Special Coagulation,Factor ii activity,0,1,1,0,2
+Special Coagulation,Factor ix activity,5,13,4,1,23
+Special Coagulation,Factor ix inhibitor,1,1,1,0,3
+Special Coagulation,Factor v activity,1,2,2,0,5
+Special Coagulation,Factor v leiden,6,8,9,1,24
+Special Coagulation,Factor vii activity,2,13,4,3,22
+Special Coagulation,Factor viii activity,28,32,13,2,75
+Special Coagulation,Factor viii activity  chromogenic,4,1,1,0,6
+Special Coagulation,Factor viii inhib human panel,0,0,1,0,1
+Special Coagulation,Factor viii inhibitor  human,0,1,0,0,1
+Special Coagulation,Factor x activity,1,4,2,0,7
+Special Coagulation,Factor x chromogenic,2,4,3,0,9
+Special Coagulation,Factor xi activity,2,8,0,3,13
+Special Coagulation,Factor xii activity,1,5,0,0,6
+Special Coagulation,Factor xiii antigen,0,1,0,0,1
+Special Coagulation,Factor xiii screen,1,3,0,0,4
+Special Coagulation,Fibrinogen,0,1,0,0,1
+Special Coagulation,Fibrinogen antigen,15,26,29,2,72
+Special Coagulation,Fviii inhib human,3,1,0,0,4
+Special Coagulation,Homocysteine,4,16,3,0,23
+Special Coagulation,Lupus anticoagulant panel,22,21,16,3,62
+Special Coagulation,Methylenetetrahydrofolate reductase,0,1,1,0,2
+Special Coagulation,Mthfr 677 mutation,1,3,1,0,5
+Special Coagulation,Mthfr1298,1,0,1,0,2
+Special Coagulation,Platelet aggregation,11,10,5,1,27
+Special Coagulation,Protein c activity w rfl to protein c antigen,0,2,0,0,2
+Special Coagulation,Protein c antigen,1,1,1,0,3
+Special Coagulation,Protein s activity,0,1,1,0,2
+Special Coagulation,Protein s activity wrefl prt s ag tot,0,1,0,0,1
+Special Coagulation,Protein s free,1,0,1,0,2
+Special Coagulation,Protein s panel,0,1,0,0,1
+Special Coagulation,Protein s total,1,0,1,0,2
+Special Coagulation,Prothrombin 20210,7,10,8,1,26
+Special Coagulation,Pt mixing study,45,57,59,26,187
+Special Coagulation,Quantiferon tb gold 4 tubes,162,170,121,23,476
+Special Coagulation,Reptilase time,0,1,0,0,1
+Special Coagulation,Ristocetin cofactor,18,21,1,2,42
+Special Coagulation,Thrombin time,0,1,0,0,1
+Special Coagulation,Uhealth pc and s activity wrflx to antigen,6,6,6,2,20
+Special Coagulation,Von willebrand disease profile,2,0,0,0,2
+Special Coagulation,Von willebrand fact act rflx to ristoc,0,1,0,0,1
+Special Coagulation,Von willebrand factor antigen,18,19,0,2,39
+Special Coagulation,Vwf multimer plasma,9,13,0,2,24
+Toxicology,Pain management profile 1 wconfirmation urine,46,53,24,0,123
+UMH,Acetaminophen level,26,23,23,13,85
+UMH,Acetone,37,30,28,15,110
+UMH,Acute hepatitis panel,64,76,56,27,223
+UMH,Albumin level,48,37,33,31,149
+UMH,Alcohol  serum ethanol level,78,78,61,18,235
+UMH,Alkaline phosphatase,2,1,4,0,7
+UMH,Alt sgpt,1,3,6,2,12
+UMH,Ammonia,105,108,118,52,383
+UMH,Amylase,19,34,37,12,102
+UMH,Anti xa low molec.weight heparin,0,0,2,0,2
+UMH,Aptt,3376,3193,2646,1029,10244
+UMH,Ast sgot,1,1,4,2,8
+UMH,Automated cell count,2243,2382,2076,727,7428
+UMH,Basic metabolic profile,7887,7687,6927,2472,24973
+UMH,Beta 2 microglobulin serum,127,124,121,40,412
+UMH,Beta hcg  blood,49,46,32,20,147
+UMH,Bilirubin  fractionated,11,20,15,7,53
+UMH,Blood gas analysis,0,0,2,1,3
+UMH,Blood urea nitrogen,5,1,1,0,7
+UMH,Body fluid analysis,102,90,67,50,309
+UMH,Buncreatinine ratio with egfr,3,1,2,1,7
+UMH,Calcium level,17,34,12,1,64
+UMH,Calcium  24 hour urine w creatinine,5,3,3,0,11
+UMH,Carbamazepine level,4,3,3,0,10
+UMH,Cardiac profile,1122,1039,784,329,3274
+UMH,Cholesterol,1,0,2,0,3
+UMH,Collagen adp,9,6,4,0,19
+UMH,Complement c3,28,28,33,8,97
+UMH,Complement c4,31,29,33,8,101
+UMH,Complete blood count cbc,10672,9620,8545,3801,32638
+UMH,Complete urinalysis w microscopy,113,74,45,18,250
+UMH,Comprehensive metabolic panel,5395,4807,4156,2015,16373
+UMH,Cortisol  total,150,142,134,66,492
+UMH,Covid 19 rt pcr umh,0,0,0,427,427
+UMH,Cpk,272,183,136,70,661
+UMH,Cpk mb isoenzyme,60,49,17,3,129
+UMH,C reactive protein,512,482,612,568,2174
+UMH,Creatinine blood,10,5,4,0,19
+UMH,Crystals  synovial fluid,3,3,1,0,7
+UMH,Csf cell count,102,98,89,32,321
+UMH,Csf glucose,33,21,32,13,99
+UMH,Csf glucose  total protein,40,36,27,12,115
+UMH,Csf total protein,33,22,33,13,101
+UMH,Cystatin c,69,53,32,12,166
+UMH,D dimer,103,108,203,196,610
+UMH,Dic panel,6,0,0,0,6
+UMH,Digoxin level,36,44,53,21,154
+UMH,Dilantin level,7,18,13,2,40
+UMH,Direct bilirubin,115,98,91,43,347
+UMH,Direct ldl,15,21,15,4,55
+UMH,Drug of abuse screen  urine,154,154,115,38,461
+UMH,Electrolytes  blood,0,1,1,0,2
+UMH,Esr,170,186,243,176,775
+UMH,Fecal globin by immunochem,47,26,27,6,106
+UMH,Fecal globin by immunochem. medicare,15,17,13,2,47
+UMH,Ferritin,50,49,122,375,596
+UMH,Fibrin degradation product,15,14,2,3,34
+UMH,Fibrinogen,157,288,179,59,683
+UMH,Fluid albumin,17,18,15,10,60
+UMH,Fluid amylase,51,48,31,36,166
+UMH,Fluid bilirubin,5,8,1,2,16
+UMH,Fluid cholesterol,16,8,5,1,30
+UMH,Fluid creatinine,21,30,26,4,81
+UMH,Fluid crystals,4,3,4,0,11
+UMH,Fluid glucose,68,64,50,34,216
+UMH,Fluid hematocrit,0,1,0,0,1
+UMH,Fluid ldh,41,38,29,16,124
+UMH,Fluid total protein,78,69,48,40,235
+UMH,Fluid triglyceride,61,44,28,26,159
+UMH,Folate,223,238,165,73,699
+UMH,Free kappalambda light chains qnt  serum,556,509,478,217,1760
+UMH,Free t3,304,280,289,146,1019
+UMH,Free t4,223,205,165,74,667
+UMH,Free thyroxine and t4,14,1,5,3,23
+UMH,Ggtp,16,17,17,10,60
+UMH,Glucose 2hr post prandial,1,0,0,0,1
+UMH,Glucose fasting,0,2,0,0,2
+UMH,Glucose level,7,11,3,4,25
+UMH,Glucose tolerance 3hr,1,0,0,0,1
+UMH,Glycohemoglobin a1c,1031,992,654,183,2860
+UMH,Haptoglobin,139,128,121,56,444
+UMH,Hdl,1,0,0,1,2
+UMH,Hematocrit,5,8,7,2,22
+UMH,Hemoglobin,15,13,11,6,45
+UMH,Hemoglobin and hematocrit,287,334,218,76,915
+UMH,Hemoglobin electrophoresis with interpretation,0,1,2,0,3
+UMH,Hemoglobin electrophoresis  quantitation only,103,90,68,23,284
+UMH,Hepatic function panel,826,760,766,325,2677
+UMH,Hepatitis a ab igm,10,25,19,7,61
+UMH,Hepatitis a ab total,102,105,4,17,228
+UMH,Hepatitis b core igm antibody,50,40,47,17,154
+UMH,Hepatitis b surface ab,487,512,352,98,1449
+UMH,Hepatitis b surface ag,350,311,271,107,1039
+UMH,Hepatitis c antibody screen,322,251,215,63,851
+UMH,Hepatitis c antibody wrflx hcv rna qnt  rt pcr,127,159,361,161,808
+UMH,Hgb elp interpretation only,17,23,12,3,55
+UMH,Hiv screen 4th generation wreflex,475,471,583,196,1725
+UMH,Iga,9,13,10,1,33
+UMH,Igg,39,38,27,19,123
+UMH,Igm,5,8,6,2,21
+UMH,Immunofixation electrophoresis,367,360,357,175,1259
+UMH,Immunoglobulins quantitation,717,652,571,246,2186
+UMH,Immunotyping,13,0,0,0,13
+UMH,Infectious mononucleosis,8,6,8,0,22
+UMH,Influenza a & b antigen detection,0,0,0,1,1
+UMH,Influenza ab  rna rt pcr ql,525,402,277,23,1227
+UMH,Ionized calcium,377,255,265,87,984
+UMH,Iron,6,3,4,4,17
+UMH,Iron and total iron binding capacity,36,26,29,5,96
+UMH,Iron profile,216,215,186,95,712
+UMH,Lactic acid,1423,1269,1248,687,4627
+UMH,Ldh,261,259,448,402,1370
+UMH,Lipase,527,539,433,172,1671
+UMH,Lipase fluid,39,37,24,26,126
+UMH,Lipid profile,519,515,339,87,1460
+UMH,Lithium level,9,1,2,1,13
+UMH,Magnesium level,5141,4982,4928,2294,17345
+UMH,Methotrexate level,48,29,34,20,131
+UMH,Myoglobin  serum,1,4,3,0,8
+UMH,Nt probnp,571,496,410,256,1733
+UMH,Occult blood fecal,1,0,0,2,3
+UMH,Osmolality,282,223,291,157,953
+UMH,Peripheral smear scan,33,43,30,24,130
+UMH,Phenobarbital level,12,2,18,0,32
+UMH,Phosphorous,3616,3498,3742,1658,12514
+UMH,Platelet,9,11,14,4,38
+UMH,Platelet function analysis,46,44,24,4,118
+UMH,Platelet  citrated blood,16,15,7,5,43
+UMH,Potassium,132,124,105,60,421
+UMH,Prealbumin,183,167,180,78,608
+UMH,Procalcitonin,263,249,368,379,1259
+UMH,Prolactin,37,43,20,10,110
+UMH,Prostatic specific antigen freetotal,121,99,72,37,329
+UMH,Pth  intact,206,142,113,32,493
+UMH,Pth  intact + calcium,11,7,9,5,32
+UMH,Pt inr,3037,2726,2356,928,9047
+UMH,Rapid hiv,35,20,30,9,94
+UMH,Rapid strep group a,2,2,4,2,10
+UMH,Renal function panel,64,32,64,104,264
+UMH,Reticulocyte count,0,1,0,0,1
+UMH,Reticulocyte panel,77,69,63,18,227
+UMH,Rheumatoid factor,48,48,25,6,127
+UMH,Rubella ab igg,230,259,137,17,643
+UMH,Salicylate level,22,13,24,10,69
+UMH,Serum pregnancy qual,198,175,136,41,550
+UMH,Serum protein electrophoresis with reflex,570,521,494,223,1808
+UMH,Sezary cell count,9,10,7,4,30
+UMH,Sickle cell screen,24,7,4,0,35
+UMH,Sodium,100,66,140,21,327
+UMH,Specific gravity,100,105,30,2,237
+UMH,Streptococcus pyogenes  pcr ql,30,36,36,2,104
+UMH,T3,97,79,38,8,222
+UMH,T4,60,54,30,22,166
+UMH,Testosterone level  total,128,104,87,40,359
+UMH,Theophyline level,2,6,0,5,13
+UMH,Thrombin time,1,5,1,0,7
+UMH,Thyroid panel no tsh,9,2,5,2,18
+UMH,Thyroid panel with tsh,74,98,70,14,256
+UMH,Tobramycin peak level,1,0,0,0,1
+UMH,Tobramycin random level,4,4,4,0,12
+UMH,Tobramycin trough level,0,2,0,0,2
+UMH,Total bilirubin,4,4,1,2,11
+UMH,Total protein,22,15,9,7,53
+UMH,Toxicology validity panel,46,52,24,0,122
+UMH,Triglyceride,41,43,57,45,186
+UMH,Troponin t,682,647,441,260,2030
+UMH,Tsh,805,813,560,190,2368
+UMH,Tsh with reflex to freet4,243,230,163,54,690
+UMH,Ultra sensitive psa,191,153,116,31,491
+UMH,Uric acid,398,349,391,138,1276
+UMH,Urinalysis with reflex to urine culture,1463,1347,1101,465,4376
+UMH,Urine calcium conc.  random,3,3,4,0,10
+UMH,Urine calcium  24hr,4,2,2,0,8
+UMH,Urine chloride conc.  random,3,5,4,1,13
+UMH,Urine chloride  24hr,3,0,0,0,3
+UMH,Urine chlorideurine creat ratio,0,1,2,0,3
+UMH,Urine creatinine clearance  24hr,5,2,2,0,9
+UMH,Urine creatinine conc.  random,112,103,94,60,369
+UMH,Urine creatinine  24hr,10,2,7,0,19
+UMH,Urine electrolytes  random,115,113,130,47,405
+UMH,Urine eosinophil smear,3,0,3,1,7
+UMH,Urine glucose conc.  random,0,0,1,0,1
+UMH,Urine glucose  24hr,1,0,0,0,1
+UMH,Urine hcg  qualitative,62,57,38,10,167
+UMH,Urine macroscopic,468,394,446,114,1422
+UMH,Urine magnesium conc.  random,2,1,2,0,5
+UMH,Urine magnesium  24hr,1,0,0,0,1
+UMH,Urine microalbumin  random,23,13,9,2,47
+UMH,Urine microscopic,11,7,8,3,29
+UMH,Urine osmolality  random,114,126,110,31,381
+UMH,Urine ph,273,127,218,110,728
+UMH,Urine phosphorus conc.  random,3,1,3,14,21
+UMH,Urine phosphorus  24hr,4,0,0,0,4
+UMH,Urine potassium conc.  random,23,21,19,5,68
+UMH,Urine potassium  24hr,3,1,0,0,4
+UMH,Urine potassiumurine creat ratio,0,2,2,0,4
+UMH,Urine protein conc.,112,92,82,45,331
+UMH,Urine protein conc. random,55,46,26,5,132
+UMH,Urine proteinurine creat ratio,10,12,8,3,33
+UMH,Urine sodium conc.  random,110,91,82,48,331
+UMH,Urine sodium  24hr,2,1,0,0,3
+UMH,Urine total protein  24hr,14,6,6,1,27
+UMH,Urine urea nitrogen conc. random,50,49,46,28,173
+UMH,Urine urea nitrogen  24hr,14,11,7,5,37
+UMH,Urine uric acid conc. random,1,5,5,1,12
+UMH,Urine uric acid  24hr,2,1,0,0,3
+UMH,Urn microalbumincreatinine ratio,16,8,6,0,30
+UMH,Urn microalbumincreatinine  rnd,178,176,83,22,459
+UMH,Valproic acid level,33,23,50,4,110
+UMH,Vancomycin peak level,1,0,0,0,1
+UMH,Vancomycin random level,129,154,156,76,515
+UMH,Vancomycin trough level,437,342,363,173,1315
+UMH,Vitamin b12 level,384,367,257,110,1118
+UMH,Vitamin b12folate serum panel,125,101,113,42,381
+UMH,Vitamin d 25 hydroxy level,636,488,320,92,1536
+UMHC,Albumin level,1,1,0,0,2
+UMHC,Alkaline phosphatase,7,5,6,0,18
+UMHC,Alpha fetoprotein,161,165,125,47,498
+UMHC,Alt sgpt,10,8,10,1,29
+UMHC,Ammonia,25,8,12,2,47
+UMHC,Amylase,329,294,285,128,1036
+UMHC,Aptt,384,396,391,127,1298
+UMHC,Ast sgot,8,7,9,1,25
+UMHC,Automated cell count,79,70,44,14,207
+UMHC,Basic metabolic profile,84,101,81,32,298
+UMHC,Beta hcg  blood,94,130,102,26,352
+UMHC,Bilirubin  fractionated,24,37,39,11,111
+UMHC,Blood gas analysis,86,55,29,11,181
+UMHC,Blood gas analysis  venous,20,2,0,5,27
+UMHC,Blood urea nitrogen,9,7,3,1,20
+UMHC,Ca 125,250,222,225,125,822
+UMHC,Ca 15 3,476,425,426,191,1518
+UMHC,Ca 19 9,391,385,384,204,1364
+UMHC,Calcium level,47,35,28,3,113
+UMHC,Carcinoembryonic ag,1034,938,908,432,3312
+UMHC,Cardiac profile,7,4,0,2,13
+UMHC,Cholesterol,21,19,16,8,64
+UMHC,Complete blood count cbc,5562,4999,4403,1784,16748
+UMHC,Complete urinalysis w microscopy,177,164,134,49,524
+UMHC,Comprehensive metabolic panel,5215,4732,4169,1693,15809
+UMHC,Cpk,120,99,139,46,404
+UMHC,Cpk mb isoenzyme,8,0,4,3,15
+UMHC,Creatinine blood,6,6,6,1,19
+UMHC,Csf glucose,15,20,19,4,58
+UMHC,Csf glucose  total protein,15,19,12,4,50
+UMHC,Csf total protein,15,20,19,4,58
+UMHC,Direct bilirubin,977,859,770,293,2899
+UMHC,Electrolytes  blood,0,0,2,0,2
+UMHC,Esr,149,156,114,47,466
+UMHC,Estradiol level,92,161,57,14,324
+UMHC,Ferritin,365,330,280,121,1096
+UMHC,Fibrinogen,68,61,56,33,218
+UMHC,Follicle stimulating hormone,47,37,16,8,108
+UMHC,Free t4,544,471,477,216,1708
+UMHC,Free thyroxine and t4,0,1,0,0,1
+UMHC,Fsh and lh,10,10,8,7,35
+UMHC,Ggtp,175,164,117,51,507
+UMHC,Glucose 2hr post prandial,0,1,0,0,1
+UMHC,Glucose fasting,17,4,4,0,25
+UMHC,Glucose level,1,0,1,0,2
+UMHC,Hdl,0,1,0,0,1
+UMHC,Hemoglobin and hematocrit,0,3,1,2,6
+UMHC,Hepatic function panel,24,28,22,10,84
+UMHC,Intraoperative pth,52,61,36,4,153
+UMHC,Ionized calcium,78,62,61,23,224
+UMHC,Iron,11,10,6,1,28
+UMHC,Iron and total iron binding capacity,141,136,97,43,417
+UMHC,Iron profile,203,206,163,81,653
+UMHC,Ldh,2439,2317,1906,768,7430
+UMHC,Lipase,297,264,260,120,941
+UMHC,Lipid profile,341,313,191,62,907
+UMHC,Lipid profile w reflex dldl,1,0,0,0,1
+UMHC,Luteinizing hormone,57,100,23,8,188
+UMHC,Magnesium level,1822,1557,1491,702,5572
+UMHC,Methotrexate level,0,9,3,0,12
+UMHC,Occult blood fecal,9,6,10,0,25
+UMHC,Phosphorous,1249,1116,1042,446,3853
+UMHC,Platelet,125,80,45,36,286
+UMHC,Platelet  citrated blood,8,2,1,1,12
+UMHC,Potassium,58,34,43,18,153
+UMHC,Product cell count,23,18,18,3,62
+UMHC,Progesterone level,11,12,5,1,29
+UMHC,Pt inr,634,625,572,229,2060
+UMHC,Rapid hiv,20,6,5,2,33
+UMHC,Renal function panel,28,21,17,5,71
+UMHC,Reticulocyte count,3,2,3,2,10
+UMHC,Reticulocyte panel,432,372,313,130,1247
+UMHC,Serum pregnancy qual,37,39,26,12,114
+UMHC,Sodium,4,4,6,0,14
+UMHC,Stem cell product collection data,39,30,32,5,106
+UMHC,T3,106,92,103,45,346
+UMHC,T4,130,105,140,65,440
+UMHC,Thrombin time,8,3,10,3,24
+UMHC,Total bilirubin,3,1,5,1,10
+UMHC,Total protein,2,0,0,1,3
+UMHC,Triglyceride,42,37,38,21,138
+UMHC,Troponin t,42,11,28,10,91
+UMHC,Tsh,1120,984,995,456,3555
+UMHC,Tsh with reflex to freet4,66,56,49,17,188
+UMHC,Ultra sensitive psa,328,287,227,94,936
+UMHC,Uric acid,796,781,733,386,2696
+UMHC,Urinalysis with reflex to urine culture,44,55,43,13,155
+UMHC,Urine hcg  qualitative,27,20,25,11,83
+UMHC,Urine macroscopic,325,300,268,110,1003
+UMHC,Urine microscopic,473,451,349,121,1394
+UMHC,Urine ph,2,31,0,0,33
+UMHC,Vancomycin random level,18,1,5,5,29
+UMHC,Vancomycin trough level,42,19,19,12,92
+UMHC,Wbc differential,0,1,1,0,2

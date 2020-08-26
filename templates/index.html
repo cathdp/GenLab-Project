@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <!-- Bootstrap -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
+    integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <link rel="canonical" href="https://getbootstrap.com/docs/4.0/examples/dashboard/">
+  <title>Project II</title>
+</head>
+
+
+
+<body>
+
+  <div class="container-fluid">
+    <div class="jumbotron jumbotron-fluid text-center bg-info py-1 shadow shadow-dark">
+      <h1 class="display-1">General Laboratoty Dashboard</h1>
+      <p class="lead">This Project is result of the BootCamp. </p>
+      <hr class="my-2">
+      <p class="lead">
+        <a class="btn btn-secondary btn-lg" href="/" role="button">Home</a>
+        <a class="btn btn-light btn-lg" href="/api/v1.1/table" role="button">Blood Bank API</a>
+        <a class="btn btn-light btn-lg" href="/api/v1.0/table" role="button">General Data API</a>
+        <a class="btn btn-light btn-lg" href="/about" role="button">Details</a>
+              </p>
+    </div>
+
+
+    <h1>Data Analytics In The Lab </h1>
+    We have entered a new age of information in medicine, one in which the scale and complexity of data, as well as the
+    pace at which data are being generated, limits the ability of any individual to manually interpret it and draw
+    relevant conclusions about the optimal course of therapy for a particular patient.
+
+
+    <h1>Laboratory Overview</h1>
+    <p>
+      Recent years have seen an expansion of resources available for data analytics across industries, including new,
+      cost-effective tools for data transmission, storage, security, interoperability, computation, analysis, and
+      visualization. Pathologists and clinical laboratories are uniquely positioned to apply advances in data analytics
+      to improve patient care. Each of these advances is part of a larger, more general approach that has spawned the
+      field of “Big Data,” and one that precision medicine is particularly well positioned to exploit. The field tends
+      to be characterized by five “V’s”: volume, velocity, variety, veracity, and value.</p>
+
+    
+    <hr>
+
+
+    <!-- //plotting -->
+  </div>
+  </div>
+  </div>
+  <div class="container-fluid">
+  </p>The following chart provides 10 orders per month's in the South of Florida.</p>
+    <div id="chartdiv"></div>
+    <div class="container-fluid">
+    </p>The following chart shows additional information about the lab orders that are performed by the laboratories.
+      <div class="row">
+        <div class="col">
+          <div id="bar_1"></div>
+        </div>
+        <div class="col col-lg-5">
+          <div id="pie"></div>
+        </div>
+      </div>
+    </div>
+    <hr class="my-3" />
+    </hr>
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-7">
+          <h2>General Lab Data:</h2><br>
+          </p> The table below you can find the lab orders by location or workload of the first quarter of 2020. </p>
+          <div class="panel-body">
+          </div>
+          </aside>
+          <table class="table table-striped">
+            <thead>
+              <tr>
+                <th>
+                  <select id="locationFilter">
+                    <option value="-1">(All)</option>
+                  </select>
+                </th>
+                <th>
+                  <select id="testFilter">
+                    <option value="-1">(All)</option>
+                  </select>
+                </th>
+                <th colspan="5"></th>
+              </tr>
+              <tr>
+                <th>Location</th>
+                <th>Test Name</th>
+                <th>January</th>
+                <th>February</th>
+                <th>March</th>
+                <th>April</th>
+                <th>Total</th>
+              </tr>
+            </thead>
+            <tbody id="tableBody"></tbody>
+          </table>
+        </div>
+        <div class="col-7">
+
+          <div id="scatter"></div>
+        </div>
+      </div>
+      <!-- Styles -->
+      <style>
+        #chartdiv {
+          width: 100%;
+          height: 500px;
+        }
+      </style>
+
+
+      <!-- Resources -->
+      <script src="/static/assets/js/amcharts4/core.js"></script>
+      <script src="/static/assets/js/amcharts4/charts.js"></script>
+      <script src="/static/assets/js/amcharts4/themes/animated.js"></script>
+      <script src="/static/assets/js/amcharts4/lang/de_DE.js"></script>
+      <script src="/static/assets/js/amcharts4/fonts/notosans-sc.js"></script>
+      <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+        integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+        crossorigin="anonymous"></script>
+      <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+        crossorigin="anonymous"></script>
+      <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"
+        integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI"
+        crossorigin="anonymous"></script>
+      <script src="https://cdn.jsdelivr.net/npm/lodash@4.17.15/lodash.min.js"></script>
+      <!-- D3js.org -->
+      <script src="https://d3js.org/d3.v5.min.js"></script>
+      <script src='/static/assets/js/plots.js'></script>
+      <script src="/static/assets/js/script.js"></script>
+</body>
+<footer class="container">
+  <p class="float-right"><a href="#">Back to top</a></p>
+  <p>&copy; Alfredo Espana Catherine Diagama-Pedroza Pedro Saraiva , Inc. &middot; <a href="#">Privacy</a> &middot; <a
+      href="#">Terms</a></p>
+</footer>
+
+</html>

@@ -1,0 +1,113 @@
+var originalData = [];
+var dataFiltered = [];
+var $locationFilter = document.getElementById("locationFilter");
+var $testFilter = document.getElementById("testFilter");
+var $tableBody = document.getElementById("tableBody");
+
+document
+  .querySelector("#locationFilter")
+  .addEventListener("change", function (e) {
+    resetFilter(originalData);
+    if ($locationFilter.value != "-1") locationFilter($locationFilter.value);
+  });
+
+document.querySelector("#testFilter").addEventListener("change", function (e) {
+  resetFilter(originalData);
+  if ($testFilter.value != "-1") testFilter($testFilter.value);
+});
+
+var p_data = {
+  location: [],
+  test: [],
+};
+
+d3.json("/api/v1.0/table").then(function (data) {
+  originalData = data;
+  dataFiltered = data;
+});
+
+/*originalData = data; dataFiltered = data;*/
+var x_loc = [];
+
+function clearTable() {
+  console.log("clearTable");
+  $tableBody.innerHTML = "";
+}
+
+function showTable(data) {
+  console.log("showTable");
+  clearTable();
+
+  data.forEach(function (o) {
+    var row = d3.select("tbody").append("tr");
+
+    row.append("td").text(o.location);
+    row.append("td").text(o.test);
+    row.append("td").text(o.january);
+    row.append("td").text(o.february);
+    row.append("td").text(o.march);
+    row.append("td").text(o.april);
+    row.append("td").text(o.total);
+  });
+}
+// YOUR CODE HERE!
+
+function resetFilter(data) {
+  console.log("resetFilter");
+  dataFiltered = originalData;
+  showTable(originalData);
+}
+
+function locationFilter(locationFilter) {
+  console.log("locationFilter");
+  dataFiltered = dataFiltered.filter(function (l) {
+    return l.location.includes(locationFilter);
+  });
+  showTable(dataFiltered);
+}
+
+function testFilter(testFilter) {
+  console.log("testFilter");
+  dataFiltered = dataFiltered.filter(function (l) {
+    return l.test === testFilter;
+  });
+  showTable(dataFiltered);
+}
+function loadLocationFilter() {
+  console.log("loadLocationFilter");
+  var locations = [];
+  originalData.forEach(function (o) {
+    locations.push(o.location);
+  });
+  var distinctLocations = _.uniq(locations);
+  distinctLocations.forEach(function (o) {
+    var option = document.createElement("option");
+    option.value = o;
+    option.text = o;
+    $locationFilter.appendChild(option);
+  });
+}
+
+function loadTestFilter() {
+  console.log("loadTestFilter");
+  var tests = [];
+  originalData.forEach(function (o) {
+    tests.push(o.test);
+  });
+  var distinctTests = _.uniq(tests);
+  distinctTests.forEach(function (o) {
+    var option = document.createElement("option");
+    option.value = o;
+    option.text = o;
+    $testFilter.appendChild(option);
+  });
+}
+
+function init() {
+  console.log("init");
+  loadLocationFilter();
+  loadTestFilter();
+  resetFilter(originalData);
+}
+
+init();

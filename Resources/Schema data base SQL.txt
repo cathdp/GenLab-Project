@@ -1,0 +1,28 @@
+Database Name:lab_data
+
+
+CREATE TABLE general_data
+(
+    location character varying NOT NULL,
+    test character varying NOT NULL,
+    January integer NOT NULL,
+    February integer NOT NULL,
+    March integer NOT NULL,
+    April integer NOT NULL,
+    Total integer NOT NULL,
+    PRIMARY KEY (location, test)
+);
+
+CREATE TABLE blood_bank
+(
+    "Order Number" character varying,
+    "Order DTTM" character varying,
+    test character varying,
+    "Test Name" character varying,
+    Ward character varying,
+    Site character varying,
+    location character varying
+    PRIMARY KEY (location)
+);
+
+' DELIMITER ',' CSV HEADER;

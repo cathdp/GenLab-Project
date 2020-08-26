@@ -1,0 +1,161 @@
+var originalData = [];
+var dataFiltered = [];
+var locations = [];
+var tests = [];
+
+var $locationFilter = document.getElementById("locationFilter");
+var $testFilter = document.getElementById("testFilter");
+var $tableBody = document.getElementById("tableBody");
+
+document
+  .querySelector("#locationFilter")
+  .addEventListener("change", function (e) {
+    resetFilter(originalData);
+    if ($locationFilter.value != "-1") locationFilter($locationFilter.value);
+  });
+
+document.querySelector("#testFilter").addEventListener("change", function (e) {
+  resetFilter(originalData);
+  if ($testFilter.value != "-1") testFilter($testFilter.value);
+});
+
+var p_data = {
+  location: [],
+  test: [],
+};
+/* Right Data Schema
+testdata = [
+  {
+    location: "location 1",
+    test: "test 1",
+    january: 1,
+    february: 1,
+    march: 1,
+    april: 1,
+    total: 1,
+  },
+  {
+    location: "location 2",
+    test: "test 1",
+    january: 1,
+    february: 1,
+    march: 1,
+    april: 1,
+    total: 1,
+  },
+  {
+    location: "location 1",
+    test: "test 2",
+    january: 1,
+    february: 1,
+    march: 1,
+    april: 1,
+    total: 1,
+  },
+];
+*/
+d3.json("/api/v1.0/table").then(function (data) {
+  locations = data;
+  originalData = data;
+  dataFiltered = data;
+
+  showTable(data);
+});
+
+//127.0.0.1:5000/locations
+
+d3.json("/tests").then(function (data) {
+  console.log("tests", data);
+  tests = data;
+});
+
+d3.json("/locations").then(function (data) {
+  console.log("locations", data);
+  locations = data;
+});
+/*originalData = data;
+dataFiltered = data;*/
+
+function clearTable() {
+  console.log("clearTable");
+  $tableBody.innerHTML = "";
+}
+
+function showTable(data) {
+  /*wrong data schema */
+  console.log("showTable", data);
+  clearTable();
+  var location = data.location;
+  var test = data.test;
+  var jan = data.january;
+  var feb = data.february;
+  var march = data.march;
+  var april = data.april;
+  var total = data.total;
+  console.log(data);
+  for (var i = 0; i < location.length; i++) {
+    var row = d3.select("tbody").append("tr");
+
+    row.append("td").text(location[i]);
+    row.append("td").text(test[i]);
+    row.append("td").text(jan[i]);
+    row.append("td").text(feb[i]);
+    row.append("td").text(march[i]);
+    row.append("td").text(april[i]);
+    row.append("td").text(total[i]);
+  }
+}
+// YOUR CODE HERE!
+
+function resetFilter(data) {
+  console.log("resetFilter");
+  dataFiltered = originalData;
+  showTable(originalData);
+}
+
+function locationFilter(locationFilter) {
+  console.log("locationFilter");
+  dataFiltered = dataFiltered.filter(function (l) {
+    return l.location.includes(locationFilter);
+  });
+  showTable(dataFiltered);
+}
+
+function testFilter(testFilter) {
+  console.log("testFilter");
+  dataFiltered = dataFiltered.filter(function (l) {
+    return l.test === testFilter;
+  });
+  showTable(dataFiltered);
+}
+function loadLocationFilter() {
+  console.log("loadLocationFilter");
+
+  locations.forEach(function (o) {
+    var option = document.createElement("option");
+    option.value = o;
+    option.text = o;
+    $locationFilter.appendChild(option);
+  });
+}
+
+function loadTestFilter() {
+  console.log("loadTestFilter");
+
+  tests.forEach(function (o) {
+    console.log(o);
+    var option = document.createElement("option");
+    option.value = o;
+    option.text = o;
+    $testFilter.appendChild(option);
+  });
+}
+
+function init() {
+  console.log("init");
+  resetFilter(originalData);
+}
+
+init();
+loadLocationFilter();
+loadTestFilter();
