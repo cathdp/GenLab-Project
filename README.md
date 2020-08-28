@@ -1,2 +1,3 @@
 # General lab Project
 
+The data was wxtracted from an excel file. The Excel File was transformed to a csv file in python, then a data base was created in postgras. Then, a flask code was implemented  in order to connect to the front web and open the browser with an HTML template.  Javascript code was cratd to manipulate the data from the postgres database. The javascript code was implemented by using two new libraries such as lodash and amcharts. The data was retrieved and filtered in order to create the 3 different graphics and the table that show the lab orders workload of the first quarter of the year 2020
